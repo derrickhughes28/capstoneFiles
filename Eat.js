@@ -17,7 +17,9 @@ import Rhinegiest from '../../assets/food/rhinegeist.jpg';
                         <div className="line"></div>
                         <h1>Eat good food in<br/><span>Cincinnati</span></h1>
                         <p>
-                            Come and check out some of the finest restruants in Cincinnati. <br/> There's plenty of wonderful places to eat and drink! <br/> If you have a taste for it, we have it here! 
+                            Come and check out some of the finest restruants in Cincinnati. <br/> 
+                            There's plenty of wonderful places to eat and drink! <br/>
+                             If you have a taste for it, we have it here! 
                         </p>   
                         <button className="btn">Shop</button>
                         <button className="btn">Eat</button>             
